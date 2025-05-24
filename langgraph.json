@@ -1,0 +1,7 @@
+{
+  "dependencies": [ "." ],
+  "graphs": {
+    "agent": "server:app"
+  },
+  "env": ".env"
+}
