@@ -28,6 +28,7 @@
 ```bash
 git clone
 python -m venv .venv && source .venv/bin/activate
+cd first_langgraph_time_bot
 pip install -r requirements.txt
 langgraph dev
 ```
